@@ -1,6 +1,6 @@
 package com.nyx.kata.byOdin.units;
 
-public abstract class WarriorUnit {
+public abstract class WarriorUnit implements Comparable<WarriorUnit> {
 
     private final MortalDice unitDice;
 
@@ -18,6 +18,11 @@ public abstract class WarriorUnit {
 
     public MortalDice rawUnit() {
         return unitDice;
+    }
+
+    @Override
+    public int compareTo(WarriorUnit o) {
+        return this.rawUnit().compareTo(o.rawUnit());
     }
 
 }

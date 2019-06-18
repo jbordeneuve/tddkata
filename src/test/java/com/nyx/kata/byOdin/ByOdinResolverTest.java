@@ -1,7 +1,9 @@
 package com.nyx.kata.byOdin;
 
 import com.nyx.kata.byOdin.units.MortalDice;
+import com.nyx.kata.tools.TimingExtension;
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.converter.ArgumentConversionException;
 import org.junit.jupiter.params.converter.ConvertWith;
@@ -20,7 +22,7 @@ import static java.util.stream.Collectors.toList;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.params.provider.Arguments.of;
 
-
+@ExtendWith(TimingExtension.class)
 public class ByOdinResolverTest {
 
     private static final Function<MortalDice[], String> enumToStr = (dices) ->

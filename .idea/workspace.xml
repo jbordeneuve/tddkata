@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2b8db7d-f557-4571-b674-48b3d728cec7" name="Default Changelist" comment="" />
+    <list default="true" id="b2b8db7d-f557-4571-b674-48b3d728cec7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/DamnedPowerEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/ExhaustPowerEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/SharpenPowerEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/StrengthenPowerEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/ThickenPowerEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/WeakeningPowerEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nyx/kata/tools/TimingExtension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyLoadBalancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyLoadBalancer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceEnhancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceEnhancer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/DivinityDice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/DivinityDice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/WarriorUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/WarriorUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nyx/kata/byOdin/ByOdinChallengeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nyx/kata/byOdin/ByOdinChallengeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nyx/kata/byOdin/ByOdinResolverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nyx/kata/byOdin/ByOdinResolverTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,38 +34,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyLoadBalancer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-400">
-              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="446">
+              <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/DivinityDice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-50">
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/SharpenPowerEffect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/ThickenPowerEffect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/MortalDice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+              <folding>
+                <element signature="e#978#979#0" expanded="true" />
+                <element signature="e#1041#1042#0" expanded="true" />
+                <element signature="e#1078#1079#0" expanded="true" />
+                <element signature="e#1119#1120#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/nyx/kata/byOdin/ByOdinChallengeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="52" column="130" selection-start-line="52" selection-start-column="130" selection-end-line="52" selection-end-column="130" />
+            <state relative-caret-position="311">
+              <caret line="100" column="5" lean-forward="true" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyComparator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceDeckBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceResolver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="27" column="89" selection-start-line="27" selection-start-column="89" selection-end-line="27" selection-end-column="89" />
+            <state relative-caret-position="185">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,32 +117,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/nyx/kata/byOdin/ByOdinResolverTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="65" column="48" lean-forward="true" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
+            <state relative-caret-position="21">
+              <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="35" selection-end-column="92" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceEnhancer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/WarriorUnit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="336">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/NeedMorePowerEffect.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/WeakeningPowerEffect.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="13" column="90" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -98,11 +159,15 @@
     <findStrings>
       <find>odinDiceSumParam</find>
       <find>enumToStr.apply(new DivinityDice[]{})),</find>
+      <find>increm</find>
     </findStrings>
     <replaceStrings>
       <replace>null</replace>
       <replace>null),</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -118,17 +183,28 @@
         <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/mortal/HireEffect.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/MortalDice.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/mortal/KillHeroEffect.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/nyx/kata/byOdin/ByOdinResolverTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/EnhancedWarrior.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/EnhancedUnit.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/NeedMorePowerEffect.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/DivinityDice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceResolver.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceDeckBuilder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceEnhancer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/nyx/kata/tools/TimingExtension.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/nyx/kata/byOdin/ByOdinResolverTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyComparator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyLoadBalancer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceEnhancer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceResolver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/WarriorUnit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/DamnationPowerEffect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/WeakingPowerEffect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/WeakeningPowerEffect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/CursedPowerEffect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/DamnedPowerEffect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/StrengthenPowerEffect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/SharpenPowerEffect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/ThickenPowerEffect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/DivinityDice.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/nyx/kata/byOdin/ByOdinChallengeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyLoadBalancer.java" />
       </list>
     </option>
   </component>
@@ -139,7 +215,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -281,6 +357,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -289,8 +366,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.nyx.kata.byOdin.effects.mortal" />
       <recent name="com.nyx.kata.byOdin.effects.divinity" />
+      <recent name="com.nyx.kata.byOdin.effects.mortal" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.nyx.kata.byOdin.effects.divinity" />
@@ -308,25 +385,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.com.nyx.kata in tddKata">
-    <configuration name="ByOdinChallengeTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tddKata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nyx.kata.byOdin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.nyx.kata.byOdin" />
-      <option name="MAIN_CLASS_NAME" value="com.nyx.kata.byOdin.ByOdinChallengeTest" />
-      <option name="TEST_OBJECT" value="uniqueId" />
-      <uniqueIds>
-        <uniqueId value="[engine:junit-jupiter]/[class:com.nyx.kata.byOdin.ByOdinChallengeTest]" />
-      </uniqueIds>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ByOdinChallengeTest">
     <configuration name="ByOdinChallengeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tddKata" />
       <extension name="coverage">
@@ -342,7 +401,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge n°1 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,SOLDIER', should found 'true'." type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ByOdinChallengeTest.shouldBalanceStrengthOfArmy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tddKata" />
       <extension name="coverage">
         <pattern>
@@ -352,15 +411,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.nyx.kata.byOdin" />
       <option name="MAIN_CLASS_NAME" value="com.nyx.kata.byOdin.ByOdinChallengeTest" />
-      <option name="TEST_OBJECT" value="uniqueId" />
-      <uniqueIds>
-        <uniqueId value="[engine:junit-jupiter]/[class:com.nyx.kata.byOdin.ByOdinChallengeTest]/[test-template:shouldBalanceStrengthOfArmy(boolean, java.util.List, java.util.List)]/[test-template-invocation:#1]" />
-      </uniqueIds>
+      <option name="METHOD_NAME" value="shouldBalanceStrengthOfArmy(boolean,java.util.List,java.util.List)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'." type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'. (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tddKata" />
       <extension name="coverage">
         <pattern>
@@ -370,6 +427,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.nyx.kata.byOdin" />
       <option name="MAIN_CLASS_NAME" value="com.nyx.kata.byOdin.ByOdinChallengeTest" />
+      <option name="METHOD_NAME" value="shouldBalanceStrengthOfArmy(boolean,java.util.List,java.util.List)" />
       <option name="TEST_OBJECT" value="uniqueId" />
       <uniqueIds>
         <uniqueId value="[engine:junit-jupiter]/[class:com.nyx.kata.byOdin.ByOdinChallengeTest]/[test-template:shouldBalanceStrengthOfArmy(boolean, java.util.List, java.util.List)]/[test-template-invocation:#16]" />
@@ -378,27 +436,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.nyx.kata in tddKata" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Challenge n°20 =&gt; the solution of : 'HEROES,HEROES,HEROES,HEROES,TRAITOR,CURSED,MAGICIAN', should found 'true'." type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tddKata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nyx.kata.*" />
+          <option name="PATTERN" value="com.nyx.kata.byOdin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.nyx.kata" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="com.nyx.kata.byOdin" />
+      <option name="MAIN_CLASS_NAME" value="com.nyx.kata.byOdin.ByOdinChallengeTest" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:com.nyx.kata.byOdin.ByOdinChallengeTest]/[test-template:shouldBalanceStrengthOfArmy(boolean, java.util.List, java.util.List)]/[test-template-invocation:#20]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Challenge n°28 =&gt; the solution of : 'LEADER,LEADER,LEADER,SOLDIER,CURSED,CURSED,MAGICIAN', should found 'true'." type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tddKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nyx.kata.byOdin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nyx.kata.byOdin" />
+      <option name="MAIN_CLASS_NAME" value="com.nyx.kata.byOdin.ByOdinChallengeTest" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:com.nyx.kata.byOdin.ByOdinChallengeTest]/[test-template:shouldBalanceStrengthOfArmy(boolean, java.util.List, java.util.List)]/[test-template-invocation:#28]" />
+      </uniqueIds>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.com.nyx.kata in tddKata" />
-        <item itemvalue="JUnit.Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'." />
-        <item itemvalue="JUnit.ByOdinChallengeTest (1)" />
         <item itemvalue="JUnit.ByOdinChallengeTest" />
-        <item itemvalue="JUnit.Challenge n°1 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,SOLDIER', should found 'true'." />
+        <item itemvalue="JUnit.ByOdinChallengeTest.shouldBalanceStrengthOfArmy" />
+        <item itemvalue="JUnit.Challenge n°28 =&gt; the solution of : 'LEADER,LEADER,LEADER,SOLDIER,CURSED,CURSED,MAGICIAN', should found 'true'." />
+        <item itemvalue="JUnit.Challenge n°20 =&gt; the solution of : 'HEROES,HEROES,HEROES,HEROES,TRAITOR,CURSED,MAGICIAN', should found 'true'." />
+        <item itemvalue="JUnit.Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'. (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -414,47 +494,56 @@
       <workItem from="1559218896924" duration="1812000" />
       <workItem from="1559551780735" duration="676000" />
       <workItem from="1560760001864" duration="9294000" />
-      <workItem from="1560845037582" duration="531000" />
+      <workItem from="1560845037582" duration="11257000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Challenge_n°16_=__the_solution_of___'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN',_should_found_'true'_ - 2019.06.17 at 17h 08m 17s.xml">
-      <configuration name="Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'." configurationId="JUnit" />
+    <history-entry file="ByOdinChallengeTest - 2019.06.18 at 16h 32m 07s.xml">
+      <configuration name="ByOdinChallengeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Challenge_n°16_=__the_solution_of___'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN',_should_found_'true'_ - 2019.06.17 at 17h 12m 18s.xml">
-      <configuration name="Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'." configurationId="JUnit" />
+    <history-entry file="Challenge_n°28_=__the_solution_of___'LEADER,LEADER,LEADER,SOLDIER,CURSED,CURSED,MAGICIAN',_should_found_'true'_ - 2019.06.18 at 16h 33m 01s.xml">
+      <configuration name="Challenge n°28 =&gt; the solution of : 'LEADER,LEADER,LEADER,SOLDIER,CURSED,CURSED,MAGICIAN', should found 'true'." configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Challenge_n°16_=__the_solution_of___'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN',_should_found_'true'_ - 2019.06.17 at 17h 12m 27s.xml">
-      <configuration name="Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'." configurationId="JUnit" />
+    <history-entry file="ByOdinChallengeTest_shouldBalanceStrengthOfArmy - 2019.06.18 at 16h 36m 25s.xml">
+      <configuration name="ByOdinChallengeTest.shouldBalanceStrengthOfArmy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Challenge_n°16_=__the_solution_of___'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN',_should_found_'true'_ - 2019.06.17 at 17h 13m 07s.xml">
-      <configuration name="Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'." configurationId="JUnit" />
+    <history-entry file="ByOdinChallengeTest - 2019.06.18 at 16h 36m 46s.xml">
+      <configuration name="ByOdinChallengeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Challenge_n°16_=__the_solution_of___'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN',_should_found_'true'_ - 2019.06.17 at 17h 15m 12s.xml">
-      <configuration name="Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'." configurationId="JUnit" />
+    <history-entry file="ByOdinChallengeTest - 2019.06.18 at 16h 37m 24s.xml">
+      <configuration name="ByOdinChallengeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Challenge_n°16_=__the_solution_of___'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN',_should_found_'true'_ - 2019.06.17 at 17h 15m 30s.xml">
-      <configuration name="Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'." configurationId="JUnit" />
+    <history-entry file="ByOdinChallengeTest - 2019.06.18 at 16h 40m 46s.xml">
+      <configuration name="ByOdinChallengeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Challenge_n°16_=__the_solution_of___'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN',_should_found_'true'_ - 2019.06.17 at 17h 16m 04s.xml">
-      <configuration name="Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'." configurationId="JUnit" />
+    <history-entry file="ByOdinChallengeTest - 2019.06.18 at 16h 42m 30s.xml">
+      <configuration name="ByOdinChallengeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Challenge_n°16_=__the_solution_of___'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN',_should_found_'true'_ - 2019.06.17 at 17h 16m 17s.xml">
-      <configuration name="Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'." configurationId="JUnit" />
+    <history-entry file="ByOdinChallengeTest - 2019.06.18 at 16h 44m 36s.xml">
+      <configuration name="ByOdinChallengeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Challenge_n°16_=__the_solution_of___'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN',_should_found_'true'_ - 2019.06.17 at 17h 16m 43s.xml">
-      <configuration name="Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'." configurationId="JUnit" />
+    <history-entry file="ByOdinChallengeTest - 2019.06.18 at 16h 46m 08s.xml">
+      <configuration name="ByOdinChallengeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Challenge_n°16_=__the_solution_of___'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN',_should_found_'true'_ - 2019.06.17 at 17h 17m 05s.xml">
-      <configuration name="Challenge n°16 =&gt; the solution of : 'HEROES,HEROES,HEROES,LEADER,SOLDIER,SOLDIER,MAGICIAN', should found 'true'." configurationId="JUnit" />
+    <history-entry file="ByOdinChallengeTest - 2019.06.18 at 16h 46m 17s.xml">
+      <configuration name="ByOdinChallengeTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14964000" />
+    <option name="totallyTimeSpent" value="25690000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
@@ -464,11 +553,11 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923833" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32923833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3181818" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3992629" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32923833" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
@@ -488,16 +577,16 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceResolver.java</url>
-          <line>27</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/SharpenPowerEffect.java</url>
+          <line>24</line>
           <properties />
-          <option name="timeStamp" value="22" />
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceEnhancer.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/SharpenPowerEffect.java</url>
+          <line>25</line>
           <properties />
-          <option name="timeStamp" value="23" />
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -543,17 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/CommonUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="32" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/mortal/MortalEffect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -565,38 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/mortal/KillHeroEffect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/HeroKilledUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/mortal/HireEffect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/WarriorUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -614,64 +660,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/mortal/SumNoMagicUnitEffect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/nyx/kata/conway/ConwaySequenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/DivityEffect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/Dice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/MortalDice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="10" selection-end-column="33" />
-          <folding>
-            <element signature="e#978#979#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
-            <element signature="e#1078#1079#0" expanded="true" />
-            <element signature="e#1119#1120#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-463">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -699,80 +691,248 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceDeckBuilder.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="252">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/nyx/kata/tools/TimingExtension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/DivinityDice.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/mortal/HireEffect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="189">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/mortal/KillHeroEffect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/HeroKilledUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/mortal/SumNoMagicUnitEffect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/CommonUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.1-jre/guava-27.1-jre.jar!/com/google/common/collect/SingletonImmutableList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#958#959#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceEnhancer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="192">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/nyx/kata/conway/ConwaySequenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/DivityEffect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/DamnedPowerEffect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/ExhaustPowerEffect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/NeedMorePowerEffect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="21" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/StrengthenPowerEffect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        <state relative-caret-position="126">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceResolver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/WeakeningPowerEffect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="27" column="89" selection-start-line="27" selection-start-column="89" selection-end-line="27" selection-end-column="89" />
+        <state relative-caret-position="189">
+          <caret line="13" column="90" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/SharpenPowerEffect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/effects/divinity/ThickenPowerEffect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/MortalDice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/WarriorUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/units/DivinityDice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/nyx/kata/byOdin/ByOdinResolverTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="65" column="48" lean-forward="true" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyLoadBalancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-400">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="21">
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="35" selection-end-column="92" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/nyx/kata/byOdin/ByOdinChallengeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="52" column="130" selection-start-line="52" selection-start-column="130" selection-end-line="52" selection-end-column="130" />
+        <state relative-caret-position="311">
+          <caret line="100" column="5" lean-forward="true" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinDiceDeckBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nyx/kata/byOdin/OdinArmyLoadBalancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
         </state>
       </provider>
     </entry>
